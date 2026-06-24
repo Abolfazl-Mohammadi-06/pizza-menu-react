@@ -64,8 +64,8 @@ This project is for educational purposes.
 
 ## Live Demo
 
-https://your-project.vercel.app
+https://abolfazl-mohammadi-06.github.io/pizza-menu-react/
 
 ## Screenshot
 
-![Fast React Pizza Co.](./screenshot.png)
+![Fast React Pizza Co.](./screenshot/screenshot.png)
