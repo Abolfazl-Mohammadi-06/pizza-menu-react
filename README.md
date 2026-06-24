@@ -42,7 +42,7 @@ The main goal of this project is to strengthen React fundamentals through a smal
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fast-react-pizza-co.git
+git clone https://github.com/Abolfazl-Mohammadi-06/fast-react-pizza-co.git
 ```
 
 Install dependencies:
