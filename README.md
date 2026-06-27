@@ -66,6 +66,3 @@ This project is for educational purposes.
 
 https://abolfazl-mohammadi-06.github.io/pizza-menu-react/
 
-## Screenshot
-
-![Fast React Pizza Co.](./screenshot/screenshot.png)
